@@ -7,7 +7,7 @@ var config = {
     "members": [
         {
             "_id": 1,
-            "host": "mongodbtestdb:27017"
+            "host": "mongodbrs:27017"
         }
     ]
 };
